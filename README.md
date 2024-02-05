@@ -1,6 +1,6 @@
 # Kyle Naranjo
 
-**` Software Engineer > Currently iOS Developer `**
+**` Software Engineer > Currently Backend Developer `**
 
 As a dedicated computer engineering undergraduate, I am passionate about promoting STEM interest and accessibility to a wider audience. My focus lies in leveraging data-driven methodologies to ideate and develop innovative tech solutions that address real-world challenges.
 
