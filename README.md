@@ -1,26 +1,25 @@
 # Kyle Naranjo
 
-**` Software Engineer > Currently Backend Developer `**
+**` Data Engineering | ML Engineering | Generative AI `**
 
-As a dedicated computer engineering undergraduate, I am passionate about promoting STEM interest and accessibility to a wider audience. My focus lies in leveraging data-driven methodologies to ideate and develop innovative tech solutions that address real-world challenges.
+I'm a Data Engineering Consultant passionate about building scalable systems and data platforms that drive real-world impact. With a formal background in computer engineering, I specialize in data platforms, data processing, and analytics-driven solutions that bridge infrastructure with insight.
 
-My areas of interest span web and mobile development, machine learning, data science, biomedical engineering, and geospatial AI. I am continuously seeking opportunities to expand my knowledge and skills in these fields to create a meaningful impact.
+My work spans data pipelines, data products, and platform development — with interests in machine learning, geospatial AI, generative AI, and digital public infrastructure. I’m always looking for meaningful ways to combine data, code, and community.
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Languages, Tools, and Platforms
 
-<img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /> 
+<img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /> 
+<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /> 
+<img align="left" alt="Spark" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> 
+<img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" /> 
 
 <br>
 <br>
-
-
 
 
 ### 📊 Stats
