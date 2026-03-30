@@ -2,6 +2,8 @@
 
 **Data Engineer @ [Thinking Machines Data Science](https://thinkingmachin.es/)** · Philippines
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&pause=1000&color=2B579A&width=435&lines=Data+Pipelines+%26+Warehousing;Agentic+AI+%26+MLOps;Backend+Engineering;Cloud+Infrastructure;GenAI+%26+LLM+Workflows)](https://git.io/typing-svg)
+
 I build data and AI infrastructure for enterprise clients and startups
 across financial services, investment management, education, and compliance.
 
