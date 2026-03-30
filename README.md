@@ -2,7 +2,11 @@
 
 **Data Engineer @ [Thinking Machines Data Science](https://thinkingmachin.es/)** · Philippines
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&pause=1000&color=2B579A&width=435&lines=Data+Pipelines+%26+Warehousing;Agentic+AI+%26+MLOps;Backend+Engineering;Cloud+Infrastructure;GenAI+%26+LLM+Workflows)](https://git.io/typing-svg)
+![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-FF3621?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-4285F4?style=for-the-badge)
+![Backend Software Engineering](https://img.shields.io/badge/Backend_Software_Engineering-009688?style=for-the-badge)
+![Cloud Infrastructure](https://img.shields.io/badge/Cloud_Infrastructure-232F3E?style=for-the-badge)
 
 I build data and AI infrastructure for enterprise clients and startups
 across financial services, investment management, education, and compliance.
