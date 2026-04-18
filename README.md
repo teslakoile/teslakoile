@@ -90,6 +90,6 @@ AWS Cloud Practitioner · GCP Cloud Digital Leader · Azure Fundamentals
 ### Community & Open Source
 
 - 🛠️ [Apache Airflow](https://github.com/apache/airflow) contributor
-- 🎤 Speaker at various tech events (Google Developer Groups, Python Philippines, Python Davao, Geeks on a Beach, AWS User Group, ISNCC 2023 Qatar to name a few)
+- 🎤 Speaker at various tech events (Google Developer Groups, Python Philippines, Python Davao, Geeks on a Beach, AWS User Group, ISNCC 2023 Qatar
 - 👥 Google Developer Group Davao — Community Lead / L&D Lead · 10+ events · 2,000+ participants
 - 🌍 Global Shaper, World Economic Forum — Davao Hub
