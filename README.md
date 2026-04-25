@@ -83,7 +83,7 @@ Adaptive reading comprehension platform using PFA-based ML.
 ### Certifications
 
 GCP Professional ML Engineer · Databricks Data Engineer Associate ·
-Azure AI Engineer Associate · OpenAI AI Technical Practitioner ·
+Azure AI Engineer Associate · OpenAI AI Technical Practitioner · OpenAI API Deployment Practitioner
 GCP Generative AI Leader · Apache Airflow 3 Fundamentals ·
 AWS Cloud Practitioner · GCP Cloud Digital Leader · Azure Fundamentals
 
