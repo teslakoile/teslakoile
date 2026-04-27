@@ -22,7 +22,7 @@ I've worked across enterprise and startup engagements spanning:
 - **Data pipelines & warehousing** — Record linkage on 15M+ records,
   ETL/ELT across Databricks, Snowflake, BigQuery
 - **Agentic AI & MLOps** — Snowflake Cortex agent workflows, prompt
-  engineering, evaluation, OpenAI integrations
+  engineering, evaluation, OpenAI API
 - **Backend engineering** — 10+ microservices, FastAPI, Django, cross-region
   architectures on AWS/Azure/GCP
 - **Infrastructure** — Terraform, Kubernetes, CI/CD, production monitoring
